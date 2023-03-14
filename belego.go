@@ -13,7 +13,7 @@ const (
 )
 
 func init() {
-    fmt.Println("Belego is a program to detect the endianness of a system. (Big or Little)")
+    fmt.Println("Belego is a program to detect the endianness. (Big or Little)")
 }
 
 func Endian() Endianness {

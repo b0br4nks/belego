@@ -1,6 +1,6 @@
 # belego
 
-It is a simple tool to detect the endianness of the system. (BigEndian or littleEndian)
+It is a simple tool to detect the endianness. (BigEndian or littleEndian)
 
 ## Test
 
